@@ -20,6 +20,5 @@ matrix:
     - jdk: oraclejdk8
       env:
         - DESC="gradlew run"
-        - CMD="gradlew run"
         - COVERAGE_CMD=""
         - DEPLOY="false"
